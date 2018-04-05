@@ -1,4 +1,4 @@
-# gatsby-plugin-babel-plugins
+# gatsby-plugin-transform-imports
 
 Use Babel plugin transform imports with Gatsby
 
